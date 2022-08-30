@@ -5,7 +5,7 @@
            margin-right: auto;
            width: 30%;
            align: center;"
-    src="https://raw.githubusercontent.com/yaq-project/yaq-fyi/main/logos/yaq-logo.svg" 
+    src="https://raw.githubusercontent.com/yaq-project/yaq-fyi/main/logos/yaq-logo-411x256.png" 
     alt="Our logo">
 </img>
 </p>
