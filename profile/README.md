@@ -35,8 +35,8 @@ motor1 = yaqc.Client(port=38000)
 motor2 = yaqc.Client(port=38001)
 sensor = yaqc.Client(port=38002)
 data = []
-for m1 in range(-10, 10, 51):
-    for m2 in range(0, 300, 101):
+for m1 in range(-10, 10, 1):
+    for m2 in range(0, 300, 5):
         motor1.set_position(m1)
         motor2.set_position(m2)
         for c in [motor1, motor2]:
