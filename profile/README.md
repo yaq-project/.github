@@ -49,7 +49,7 @@ for m1 in range(-10, 10, 1):
         reading["timestamp"] = time.time()
         reading["motor1"] = motor1.get_position()
         reading["motor2"] = motor2.get_position()
-        reading.update(sensor.get_measured_values())
+        reading.update(sensor.get_measured())
         data.append(reading)
 ```
 
