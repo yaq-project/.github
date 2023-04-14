@@ -60,3 +60,6 @@ Our website: https://yaq.fyi/
 Chat room: https://matrix.to/#/#yaq:matrix.org
 
 Email listserve: https://groups.google.com/a/g-groups.wisc.edu/g/yaq
+
+Publication: https://doi.org/10.1063/5.0135255
+
