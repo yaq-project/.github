@@ -16,7 +16,7 @@ yaq---Yet Another acQuisition
 
 We are building a modular and extensible instrument control framework on top of [Apache Avro RPC](https://avro.apache.org/docs/1.11.1/specification/). 
 In human terms, this means we have designed a simple user-friendly interface to control scientific hardware (motors, sensors, etc) from Python.
-We already support [lots of hardware](https://yaq.fyi/hardware/). and more is being added all the time.
+We already support [lots of hardware](https://yaq.fyi/hardware/), and more is being added all the time.
 
 The yaq project has no official orchestration support.
 We don't have "smart" tools to define experimental scans and record data.
